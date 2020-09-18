@@ -1,24 +1,23 @@
-# desafio-juros
+# Juros Compostos / Compound Interest (VueJS)
 
-## Project setup
-```
+# Descrição / Description
+
+Cálculo de valorização/depreciação com base em capital inicial, taxa de juros mensal e quantidade de parcelas.
+ 
+Valuation / depreciation calculation based on initial capital, monthly interest rate and number of installments.
+
+## Instalação / Installation
+
+
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+## Compilação / Compilation
+
+```python
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
